@@ -125,6 +125,7 @@ Prints the array for each significant digit increase.
 Assumes that size is a power of 2 (ie. size can be expressed as 2^k where k >= 0).
 Prints subarrays each time they are merged.
 106-O: Text file containing the best, average, and worst case time complexities of the Bitonic Sort algorithm, one per line.
+
 11. Quick Sort - Hoare Partition scheme
 
 107-quick_sort_hoare.c: C function that sorts an array of integers in ascending order using the Quick Sort algorithm.
@@ -132,6 +133,7 @@ Implements the Hoare partition scheme.
 Always uses the last elemement of the partition being sorted as the pivot.
 Prints the array after each swap.
 107-O: Text file containing the best, average, and worst case time complexities of the Quick Sort Hoare Partition cheme algorithm, one per line.
+
 12. Dealer
 
 1000-sort_deck.c: C function that sorts a deck_node_t doubly-linked list deck of cards.
